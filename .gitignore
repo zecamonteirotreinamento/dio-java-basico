@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
+=======
+tipos-variaveis/.vscode/settings.json
+>>>>>>> 1425625 (Inserindo projetos de anatomia de classes e tipos de variaveis)
